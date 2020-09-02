@@ -23,5 +23,15 @@
         "psr-4": {
             "Eyadh\\MyFirstPackage\\Tests\\": "tests/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Eyadh\\MyFirstPackage\\LaravelBadgesServiceProvider"
+            ],
+            "aliases": {
+                "BadgeProvider": "Eyadh\\MyFirstPackage\\Facades\\BadgeProvider"
+            }
+        }
     }
 }
