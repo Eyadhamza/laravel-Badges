@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Eyadh\\MyFirstPackage\\LaravelBadgesServiceProvider"
+                "Eyadh\\MyFirstPackage\\src\\LaravelBadgesServiceProvider"
             ],
             "aliases": {
                 "BadgeProvider": "Eyadh\\MyFirstPackage\\Facades\\BadgeProvider"

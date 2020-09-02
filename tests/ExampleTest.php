@@ -1,6 +1,6 @@
 <?php
 
-namespace Eyadhamza\MyFirstPackage\Tests;
+namespace Eyadh\MyFirstPackage\Tests;
 
 
 use Eyadh\MyFirstPackage\Models\Badge;

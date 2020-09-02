@@ -1,6 +1,6 @@
 <?php
 
-namespace Eyadhamza\MyFirstPackage;
+namespace Eyadh\MyFirstPackage;
 
 class MyFirstPackage
 {

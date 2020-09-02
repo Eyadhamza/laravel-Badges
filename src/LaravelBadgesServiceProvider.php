@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Eyadhamza\MyFirstPackage;
+namespace Eyadh\MyFirstPackage;
 
 
 use Illuminate\Support\ServiceProvider;
