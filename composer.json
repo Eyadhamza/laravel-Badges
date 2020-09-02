@@ -1,0 +1,27 @@
+{
+    "name": "theprofessor/badge",
+    "description": "Badges",
+    "type": "project",
+    "authors": [
+        {
+            "name": "EyadHamza",
+            "email": "EyadHamza0@outlook.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Eyadh\\MyFirstPackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Eyadh\\MyFirstPackage\\Tests\\": "tests/"
+        }
+    }
+}
